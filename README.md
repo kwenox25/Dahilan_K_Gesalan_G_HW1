@@ -1,14 +1,14 @@
 # Project Name
 
-TODO: Write a project description
+TODO: This is a project description
 
 ## Installation
 
-TODO: Describe the installation process
+TODO: This is the installation process
 
 ## Usage
 
-TODO: Write usage instructions
+TODO: start with step one
 
 ## Contributing
 
@@ -20,7 +20,7 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+TODO: The history is here
 
 ## Credits
 
