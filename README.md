@@ -1,4 +1,4 @@
-# Team DG IDP3
+# Team awesome is here
 
 TODO: This is a project description. Read this one carefully. 
 
