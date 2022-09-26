@@ -1,4 +1,4 @@
-# Project Name
+# Team DG IDP3
 
 TODO: This is a project description. Read this one carefully. 
 
