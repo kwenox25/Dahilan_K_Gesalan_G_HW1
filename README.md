@@ -1,17 +1,8 @@
-# Team I hate rings of power
-
+# Awesome JWT Images 
 
 TODO: This is a project description. Read this one carefully. 
 
-## Installation
-
-TODO: This is the installation process
-
-## Usage
-
-TODO: start with step one
-
-## Contributing
+# Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -19,14 +10,13 @@ TODO: start with step one
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
+# Credits
 
-TODO: The history is here
+Kwency Maye Dahilan
+Apple Grace Gesalan
 
-## Credits
+# License
 
-TODO: Write credits
+MIT
 
-## License
 
-TODO: This is Licence # 123
