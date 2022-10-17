@@ -1,3 +1,5 @@
+![alt text](james_webb_space_image.jpg "James Webb Photography")
+
 # Awesome JWT Images 
 
 TODO: This is a project description. Read this one carefully. 
