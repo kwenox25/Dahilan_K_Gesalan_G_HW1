@@ -1,14 +1,6 @@
-# Project Name
+# Awesome JWT Images 
 
-TODO: Write a project description
-
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
+James Webb Photography
 
 ## Contributing
 
@@ -18,14 +10,11 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+Kwency Maye Dahilan
+Apple Grace Gesalan
 
 ## License
 
-TODO: Write license
+MIT
